@@ -4,7 +4,17 @@ Created by Xu Kaiyun.
 
 ---
 ## Demo
+We provide a simple demo to show the image style similarity prediction.
 
+### Input Images
+<div align="center">
+<img src="demos/a1.jpg" width="400">
+<img src="demos/a2.jpg" width="400">
+</div>
+
+### Prediction Result
+- Final Similarity Score: **0.8814**
+- Conclusion: **Quite Similar**
 ---
 ## Code
 Coming soon.
@@ -39,12 +49,3 @@ python inference2.py \
   --output predictions_test_style.csv \
   --base_dir ./selected_samples
 ```
-Full inference command
-bash
-运行
-python graph_similarity_inference.py \
-  --input similarity_pairs.txt \
-  --model best_graph_similarity_model.pt \
-  --base_dir ./my_images \
-  --output predictions.csv \
-  --device cuda
