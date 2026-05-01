@@ -6,15 +6,46 @@ Created by Xu Kaiyun.
 ## Demo
 We provide a simple demo to show the image style similarity prediction.
 
-### Input Images
+### Input Images-1
 <div align="center">
 <img src="demos/a1.jpg" width="400">
 <img src="demos/a2.jpg" width="400">
 </div>
 
-### Prediction Result
+### Prediction Result-1
 - Final Similarity Score: **0.8814**
-- Conclusion: **Quite Similar**(based on the band as follows)
+- Conclusion: **Similar Style**
+
+### Input Images-2
+<div align="center">
+<img src="demos/a1.jpg" width="400">
+<img src="demos/a2.jpg" width="400">
+</div>
+
+### Prediction Result-2
+- Final Similarity Score: **0.8814**
+- Conclusion: **Similar Style**
+
+### Input Images-3
+<div align="center">
+<img src="demos/a1.jpg" width="400">
+<img src="demos/a2.jpg" width="400">
+</div>
+
+### Prediction Result-3
+- Final Similarity Score: **0.8814**
+- Conclusion: **Similar Style**
+
+### Input Images-4
+<div align="center">
+<img src="demos/a1.jpg" width="400">
+<img src="demos/a2.jpg" width="400">
+</div>
+
+### Prediction Result-4
+- Final Similarity Score: **0.8814**
+- Conclusion: **Similar Style**
+
 
 ### Similarity Score Band Definition
 - **identical**: ≥ 0.90
