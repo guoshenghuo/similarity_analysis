@@ -1,4 +1,4 @@
-# similarity_analysis
+# similarity analysis of artistic styles
 A promising tool to distinguish the style similarity of two images.  
 Created by Xu Kaiyun.
 
