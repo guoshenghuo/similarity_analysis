@@ -14,37 +14,37 @@ We provide a simple demo to show the image style similarity prediction.
 
 ### Prediction Result-1
 - Final Similarity Score: **0.8814**
-- Conclusion: **Similar Style**
+- Conclusion: **Similar Style but different content**
 
 ### Input Images-2
 <div align="center">
-<img src="demos/a1.jpg" width="400">
-<img src="demos/a2.jpg" width="400">
+<img src="demos/b1.jpg" width="400">
+<img src="demos/b2.jpg" width="400">
 </div>
 
 ### Prediction Result-2
-- Final Similarity Score: **0.8814**
-- Conclusion: **Similar Style**
+- Final Similarity Score: **0.6532**
+- Conclusion: **Different Style but similar content**
 
 ### Input Images-3
 <div align="center">
-<img src="demos/a1.jpg" width="400">
-<img src="demos/a2.jpg" width="400">
+<img src="demos/c1.jpg" width="400">
+<img src="demos/c2.jpg" width="400">
 </div>
 
 ### Prediction Result-3
-- Final Similarity Score: **0.8814**
-- Conclusion: **Similar Style**
+- Final Similarity Score: **0.9153**
+- Conclusion: **Similar Style and Similar Content**
 
 ### Input Images-4
 <div align="center">
-<img src="demos/a1.jpg" width="400">
-<img src="demos/a2.jpg" width="400">
+<img src="demos/d1.jpg" width="400">
+<img src="demos/d2.jpg" width="400">
 </div>
 
 ### Prediction Result-4
-- Final Similarity Score: **0.8814**
-- Conclusion: **Similar Style**
+- Final Similarity Score: **0.2364**
+- Conclusion: **Different Style and Different Content**
 
 
 ### Similarity Score Band Definition
