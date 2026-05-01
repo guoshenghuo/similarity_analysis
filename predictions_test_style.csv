@@ -1,0 +1,10 @@
+img1,img2,true_similarity,pred_similarity,error
+./selected_samples/test_style/pair000_1.jpg,./selected_samples/test_style/pair000_2.jpg,0.85,0.5152289271354675,0.33477107286453245
+./selected_samples/test_style/pair001_1.jpg,./selected_samples/test_style/pair001_2.jpg,0.85,0.8909770846366882,0.040977084636688255
+./selected_samples/test_style/pair002_1.jpg,./selected_samples/test_style/pair002_2.jpg,0.85,0.8904304504394531,0.04043045043945315
+./selected_samples/test_style/pair003_1.jpg,./selected_samples/test_style/pair003_2.jpg,0.85,0.8853063583374023,0.035306358337402366
+./selected_samples/test_style/pair004_1.jpg,./selected_samples/test_style/pair004_2.jpg,0.85,0.8913407325744629,0.04134073257446291
+./selected_samples/test_style/pair005_1.jpg,./selected_samples/test_style/pair005_2.jpg,0.85,0.7555356621742249,0.09446433782577512
+./selected_samples/test_style/pair006_1.jpg,./selected_samples/test_style/pair006_2.jpg,0.85,0.7982680201530457,0.051731979846954323
+./selected_samples/test_style/pair007_1.jpg,./selected_samples/test_style/pair007_2.jpg,0.85,0.8915278911590576,0.04152789115905764
+./selected_samples/test_style/pair008_1.jpg,./selected_samples/test_style/pair008_2.jpg,0.85,0.4692303240299225,0.3807696759700775
