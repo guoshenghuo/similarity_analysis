@@ -14,7 +14,20 @@ We provide a simple demo to show the image style similarity prediction.
 
 ### Prediction Result
 - Final Similarity Score: **0.8814**
-- Conclusion: **Quite Similar**
+- Conclusion: **Quite Similar**(based on the band as follows)
+
+### Similarity Score Band Definition
+- **identical**: ≥ 0.90
+  Example: Two images of cars painted in the style of Van Gogh
+
+- **same_style_diff_content**: ~ 0.85
+  Example: One image of a bird and another image of a car, both painted in the style of Van Gogh
+
+- **same_content_diff_style**: ~ 0.35
+  Example: One bird image in Van Gogh style, another bird image in watercolor style
+
+- **completely_different**: ≤ 0.15
+  Example: One bird image in Van Gogh style, another car image in watercolor style
 ---
 ## Code
 Coming soon.
