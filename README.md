@@ -18,8 +18,8 @@ We provide a simple demo to show the image style similarity prediction.
 
 ### Input Images-2
 <div align="center">
-<img src="demos/b1.jpg" width="400">
-<img src="demos/b2.jpg" width="400">
+<img src="demos/b1.png" width="400">
+<img src="demos/b2.png" width="400">
 </div>
 
 ### Prediction Result-2
@@ -28,8 +28,8 @@ We provide a simple demo to show the image style similarity prediction.
 
 ### Input Images-3
 <div align="center">
-<img src="demos/c1.jpg" width="400">
-<img src="demos/c2.jpg" width="400">
+<img src="demos/c1.png" width="400">
+<img src="demos/c2.png" width="400">
 </div>
 
 ### Prediction Result-3
@@ -38,12 +38,12 @@ We provide a simple demo to show the image style similarity prediction.
 
 ### Input Images-4
 <div align="center">
-<img src="demos/d1.jpg" width="400">
-<img src="demos/d2.jpg" width="400">
+<img src="demos/d1.png" width="400">
+<img src="demos/d2.png" width="400">
 </div>
 
 ### Prediction Result-4
-- Final Similarity Score: **0.2364**
+- Final Similarity Score: **0.1064**
 - Conclusion: **Different Style and Different Content**
 
 
@@ -60,7 +60,7 @@ We provide a simple demo to show the image style similarity prediction.
 - **completely_different**: ≤ 0.15
   Example: One bird image in Van Gogh style, another car image in watercolor style
 ---
-## Code
+## Methodology
 Coming soon.
 ## Environment Setup
 This project requires **Python 3.9.25** and a Conda environment.
