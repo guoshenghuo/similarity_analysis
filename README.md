@@ -1,4 +1,4 @@
-# similarity analysis of artistic styles
+# Similarity Analysis of Artistic Styles
 A promising tool to distinguish the style similarity of two images.  
 Created by Xu Kaiyun.
 
@@ -61,7 +61,7 @@ We provide a simple demo to show the image style similarity prediction.
   Example: One bird image in Van Gogh style, another car image in watercolor style
 ---
 ## Methodology
-Coming soon.
+For details of method, please refer to [Method of similarity analysis](demos/methodology.pptx)
 ## Environment Setup
 This project requires **Python 3.9.25** and a Conda environment.
 
